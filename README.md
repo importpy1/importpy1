@@ -1,7 +1,7 @@
 # Sejam bem vindos ao repositório oficial da sua página de Python
 
 
-Este é o repositório oficial de Python da página do importpy, onde compartilho projetos, scripts e tutoriais Python, explorando o melhor da linguagem . Sinta-se à vontade para explorar, aprender e colaborar! 🌟
+Este é o repositório oficial de Python da página do importpy, onde compartilhamos projetos, scripts e tutoriais Python, explorando o melhor da linguagem . Sinta-se à vontade para explorar, aprender e colaborar! 🌟
 
 
 ## Aqui você vai encontrar
