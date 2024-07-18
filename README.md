@@ -4,7 +4,7 @@
 
 Este é o repositório oficial de Python da página do importpy, onde compartilho projetos, scripts e tutoriais Python, explorando o melhor da linguagem . Sinta-se à vontade para explorar, aprender e colaborar!
 
----
+##
 
 ## Aqui você vai encontrar
 
@@ -12,7 +12,7 @@ Este é o repositório oficial de Python da página do importpy, onde compartilh
 - 📚 Tutoriais detalhados e exemplos práticos
 - 💡 Aprendizado facilitado e suave
 
----
+##
   
  ### 🌍 Redes sociais
   
