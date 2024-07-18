@@ -9,16 +9,16 @@ Este é o repositório oficial de Python da página do importpy, onde compartilh
 - 🐍 Scripts e projetos Python
 - 📚 Tutoriais detalhados e exemplos práticos
 - 💡 Aprendizado facilitado e suave
-  
- ## 🌍 Redes sociais
-  
- <div> 
-  
-  <a href="https://www.instagram.com/importpy_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  </div>
+- 🐍 Projetos: Aplicações práticas e inovadoras para resolver problemas do dia a dia.
+- 📝 Scripts: Exemplos de código para diversas tarefas e desafios.
+- 📚 Tutoriais: Guias passo a passo para aprender e aplicar conceitos de Python.
+- 🤖 Automação: Ferramentas e scripts para automatizar tarefas repetitivas.
+- 🚀 Data Science: Análise de dados e visualizações.
+
+    
+## Contato  
   
-  ##
   <br>
   ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=importpy1&color=00ccff&label=Visitor+Nº:&style=flat-square)
  
