@@ -1,6 +1,11 @@
-## Sejam bem vindos ao repositório da sua página de Python 🐍
+## Sejam bem vindos ao repositório oficial da sua página de Python 🐍
 
-<br>
+Aqui você vai encontrar:
+
+- 🐍 Scripts, projetos e tutoriais Python
+- 📘 Tutoriais e guias passo a passo
+- 🚀 Foco em automação
+
 
 <div align="left">
   <a href="https://github.com/importpy1">
