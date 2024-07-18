@@ -18,4 +18,12 @@ Este é o repositório oficial de Python da página do importpy, onde compartilh
 - 📧 Email: pyimport576@gmail.com
 - 🌐 Instagram: https://www.instagram.com/importpy_/
 
+## Licença
+
+Este projeto é licenciado sob a Licença MIT.
+
+## Agradecimentos
+
+Agradeço a todos que contribuíram para este repositório e à comunidade Python por seu apoio e recursos incríveis!
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer"/>
