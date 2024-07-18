@@ -6,10 +6,6 @@ Este é o repositório oficial de Python da página do importpy, onde compartilh
 
 ## Aqui você vai encontrar
 
-- 🐍 Scripts e projetos Python
-- 📚 Tutoriais detalhados e exemplos práticos
-- 💡 Aprendizado facilitado e suave
-
 - 🐍 Projetos: Aplicações práticas e inovadoras para resolver problemas do dia a dia.
 - 📝 Scripts: Exemplos de código para diversas tarefas e desafios.
 - 📚 Tutoriais: Guias passo a passo para aprender e aplicar conceitos de Python.
