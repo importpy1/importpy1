@@ -15,9 +15,7 @@ Este é o repositório oficial de Python da página do importpy, onde compartilh
     
 ## Contato  
   
-  <br>
-  ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=importpy1&color=00ccff&label=Visitor+Nº:&style=flat-square)
- 
-  </div>
+- 📧 Email: pyimport576@gmail.com
+- 🌐 Instagram: https://www.instagram.com/importpy_/
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer"/>
